@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Skipp-py
-- 👀 I’m interested in ... snakes more specifically, Python. Data Science and the great outdoors.
-- 🌱 I’m currently learning ... to write in Python. They have surprisingly good hand-writing considering they have no fingers.
-- 💞️ I’m looking to collaborate on ... Anything and everything.
-- 📫 How to reach me ... skippy.coding@themostpopularsearchengine.com
+🌱 A budding Data Scientist who's learning to plot the world. 🌱
+   Skills: Python, R, SQL, Machine Learning (with a mix of bowstaff and nunchuks)
+   Open to collaboration on projects.
+   Contact at: skippy.coding@gmail.com
 
 <!---
 Skipp-py/Skipp-py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
